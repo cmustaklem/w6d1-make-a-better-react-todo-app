@@ -1,0 +1,5 @@
+function renderView() {
+    react
+}
+
+renderView()
